@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+Disallow: /category-data.html
+Disallow: /video-link.html
